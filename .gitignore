@@ -1,0 +1,20 @@
+# Compiled output
+out/
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven dependency jars (managed via pom.xml)
+lib/*.jar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
